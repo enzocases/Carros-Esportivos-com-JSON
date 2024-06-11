@@ -1,0 +1,105 @@
+{
+    "carros": [
+    {
+      "title": "Ferrari F8 Tributo",
+      "description": "O Ferrari F8 Tributo é um carro esportivo com motor V8 de 3,9 litros e 710 cavalos de potência.",
+      "details": "Acelera de 0 a 100 km/h em 2,9 segundos."
+  },
+  {
+      "title": "Lamborghini Aventador SVJ",
+      "description": "O Lamborghini Aventador SVJ possui um motor V12 de 6,5 litros com 759 cavalos de potência.",
+      "details": "Alcança uma velocidade máxima de 350 km/h."
+  },
+  {
+      "title": "Porsche 911 Turbo S",
+      "description": "O Porsche 911 Turbo S é equipado com um motor de 3,8 litros e 640 cavalos de potência.",
+      "details": "Possui tração nas quatro rodas e acelera de 0 a 100 km/h em 2,7 segundos."
+  },
+  {
+      "title": "McLaren 720S",
+      "description": "O McLaren 720S tem um motor V8 de 4,0 litros com 710 cavalos de potência.",
+      "details": "Feito com um chassi de fibra de carbono, pesa apenas 1419 kg."
+  },
+  {
+      "title": "Chevrolet Corvette C8",
+      "description": "O Chevrolet Corvette C8 é o primeiro Corvette com motor central traseiro, com 495 cavalos de potência.",
+      "details": "Acelera de 0 a 100 km/h em 2,9 segundos."
+  },
+  {
+      "title": "Aston Martin Vantage",
+      "description": "O Aston Martin Vantage é um carro esportivo com motor V8 de 4,0 litros e 503 cavalos de potência.",
+      "details": "Possui um interior luxuoso com detalhes em couro e Alcantara."
+  },
+  {
+      "title": "Nissan GT-R",
+      "description": "O Nissan GT-R é conhecido por seu motor V6 biturbo de 3,8 litros e 565 cavalos de potência.",
+      "details": "Apelidado de 'Godzilla' devido ao seu desempenho impressionante."
+  },
+  {
+      "title": "Audi R8",
+      "description": "O Audi R8 possui um motor V10 de 5,2 litros com 602 cavalos de potência.",
+      "details": "Equipado com a tração integral Quattro da Audi."
+  },
+  {
+      "title": "BMW M4",
+      "description": "O BMW M4 é equipado com um motor de 3,0 litros biturbo e 503 cavalos de potência.",
+      "details": "Disponível com transmissão manual de 6 velocidades."
+  },
+  {
+      "title": "Jaguar F-Type",
+      "description": "O Jaguar F-Type é um carro esportivo com motor V8 de 5,0 litros e 575 cavalos de potência.",
+      "details": "Oferece um sistema de escapamento ativo que ajusta o som do motor."
+  },
+  {
+      "title": "Mercedes-AMG GT",
+      "description": "O Mercedes-AMG GT possui um motor V8 biturbo de 4,0 litros com 523 cavalos de potência.",
+      "details": "Desenvolvido com tecnologia de corrida da Mercedes-AMG."
+  },
+  {
+      "title": "Lexus LC 500",
+      "description": "O Lexus LC 500 é um carro esportivo com motor V8 de 5,0 litros e 471 cavalos de potência.",
+      "details": "Possui um design arrojado e uma cabine de luxo."
+  },
+  {
+      "title": "Ford Mustang Shelby GT500",
+      "description": "O Ford Mustang Shelby GT500 possui um motor V8 supercharged de 5,2 litros com 760 cavalos de potência.",
+      "details": "Acelera de 0 a 100 km/h em 3,5 segundos."
+  },
+  {
+      "title": "Dodge Challenger SRT Hellcat",
+      "description": "O Dodge Challenger SRT Hellcat tem um motor V8 supercharged de 6,2 litros com 717 cavalos de potência.",
+      "details": "Pode atingir uma velocidade máxima de 320 km/h."
+  },
+  {
+      "title": "Alfa Romeo Giulia Quadrifoglio",
+      "description": "O Alfa Romeo Giulia Quadrifoglio é um carro esportivo com motor V6 biturbo de 2,9 litros e 505 cavalos de potência.",
+      "details": "Possui um equilíbrio perfeito entre performance e luxo."
+  },
+  {
+      "title": "Toyota Supra",
+      "description": "O Toyota Supra é equipado com um motor de 3,0 litros turbo e 382 cavalos de potência.",
+      "details": "Desenvolvido em parceria com a BMW."
+  },
+  {
+      "title": "Maserati GranTurismo",
+      "description": "O Maserati GranTurismo possui um motor V8 de 4,7 litros com 454 cavalos de potência.",
+      "details": "Oferece um interior luxuoso com acabamentos em madeira e couro."
+  },
+  {
+      "title": "Lotus Evora GT",
+      "description": "O Lotus Evora GT é um carro esportivo com motor V6 de 3,5 litros e 416 cavalos de potência.",
+      "details": "Conhecido por sua agilidade e leveza, pesando apenas 1412 kg."
+  },
+  {
+      "title": "Koenigsegg Jesko",
+      "description": "O Koenigsegg Jesko é um hipercarro com motor V8 biturbo de 5,0 litros e até 1600 cavalos de potência.",
+      "details": "Projetado para alcançar velocidades superiores a 480 km/h."
+  },
+  {
+      "title": "Pagani Huayra",
+      "description": "O Pagani Huayra possui um motor V12 biturbo de 6,0 litros com 730 cavalos de potência.",
+      "details": "Cada unidade é feita sob encomenda, com detalhes personalizáveis."
+  }
+    ]
+
+}
